@@ -1,0 +1,80 @@
+
+body{
+	background:#27E124;
+}
+
+th{
+	border:1px solid #CCD507;
+	margin-right:auto;
+	margin-left:auto;
+	background:#D0E839;
+	text-align:center;
+
+
+}
+.decorador{
+text-align:center;
+border:1px solid white;
+padding:auto;
+margin-right:auto;
+background:white;
+margin-left:auto;
+padding-top:auto;
+margin-top:auto;
+margin-bottom:auto;
+
+}
+.id{
+	text-align:center;
+}
+.boton{
+	background:#D0E839; }
+
+.total{
+
+font-size:30px;
+float:left;
+margin-top:auto;
+border:1px solid white;
+padding:auto;
+background:aqua;
+padding-left:auto;
+padding-right:auto;
+padding:40px;
+
+
+
+}
+.puerco{
+
+font-size:30px;
+float:right;
+margin-top:40px;
+border:1px solid white;
+padding:auto;
+background:aqua;
+padding-left:auto;
+padding-right:auto;
+padding:40px;
+}
+.ventana{
+
+margin-top:auto;
+border:1px solid white;
+padding:auto;
+font-size:auto;
+background:#27E124; 
+color:white;
+margin-bottom:auto; 
+
+
+}
+form{
+	margin-top:auto;
+	padding:auto;
+	padding-left:auto;
+	padding-right:auto;
+	font-size:30px;
+}
+
+

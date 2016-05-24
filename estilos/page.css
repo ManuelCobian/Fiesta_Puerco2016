@@ -1,0 +1,66 @@
+body {
+	background:white; 
+}
+.pop{
+
+text-align:right;
+	}
+	header{
+		border:1px solid white;
+		background:#ccc;
+		padding:20px;
+		margin-left:70px;
+		margin-right:70px; 
+
+	}
+	h1
+	{
+		font-size:30px;
+	}
+	th{
+		background:#A1DF9E;
+	}
+	.anciano:hover{
+
+	background:green;
+color:white;
+}
+p[id="ola"]
+{
+	font-size:18px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.contenido{
+	width:80%;
+	margin:auto;
+
+}
+h1{
+	color:#3399FF;
+}
+.agrCont{
+	background:#bebebe;
+	padding: 10px;
+}
+.etiquetas label{
+	width: auto;
+	margin: 2px;
+	text-align: center;
+	padding: 5px 7px;
+	font-weight: none;
+	border-radius: 5px;
+	color: #ffffff;
+}
+table thead tr{
+	text-align: center;
+
+}
+.compo{
+	font-size:100%;
+	margin-bottom:100px;
+	padding:40px;
+	color:black;
+
+}
+

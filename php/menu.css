@@ -1,0 +1,47 @@
+nav ul{
+	border:1px solid #ccc;
+	padding:10px;
+	margin-right:10%;
+	margin-left:10%;
+	background:#ccc;
+	list-style:none;
+	text-align:center;
+text-decoration:none;
+
+
+}
+li{
+	display:inline-block;
+
+	color:white;
+		padding:10px;
+		text-decoration:none;
+
+}
+.usuario{
+
+	margin-right:30px;
+	margin-left:80px;
+
+}
+.personal{
+	margin-left:30px;
+	margin-left:100px;
+}
+.dispositivos{
+margin-right:30px;
+margin-left:20px;
+}
+
+div{
+	text-align:center;
+}
+a{
+	
+	color:white;
+}
+.useri{
+	margin-left:80%;
+
+	
+}

@@ -1,0 +1,15 @@
+.regresar{
+	border:1px solid white;
+	padding:20px;
+	margin-left:55px;
+	margin-right:55px;
+	text-align:center;
+	font-size:30px;
+	background:white;
+	color:black;
+	margin-top:30px;
+	
+}
+a{
+	text-decoration:none;
+}

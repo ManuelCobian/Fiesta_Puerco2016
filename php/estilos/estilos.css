@@ -1,0 +1,65 @@
+	body{
+	text-align:center;
+	border:1px solid white;
+	padding:auto;
+	margin-right:auto;
+	background:url('fondo.jpg'); 
+	background-repeat:no-repeat;
+	background-position:center; 
+	background-attachment:fixed;
+	margin-left:auto;
+
+	padding-top:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+		
+	}
+
+nav ul{
+	border:1px solid black;
+	padding:10px;
+	margin-right:10%;
+	margin-left:10%;
+	background:#CCD507;
+	list-style:none;
+	text-align:center;
+
+
+
+}
+li{
+	display:inline-block;
+	border:1px solid #CCD507;
+	background:#CCD507;
+	color:white;
+		padding:10px;
+
+}
+.usuario{
+
+	margin-right:30px;
+	margin-left:80px;
+
+}
+.personal{
+	margin-left:30px;
+	margin-left:100px;
+}
+.dispositivos{
+margin-right:30px;
+margin-left:20px;
+}
+li:hover{
+	background:white;
+	color:black;
+}
+div{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	color:black;
+}

@@ -1,0 +1,59 @@
+body{
+    background:#ccc;
+}
+
+.ola{
+    
+    border:1px solid white;
+    /*display:list-item;*/
+   
+    margin-left:10%;
+    padding-left:10%;
+    background:#ccc;
+    padding:20px;
+    margin-right:20%;
+    margin-left:20%;
+   
+    background:white;
+  
+    
+
+   
+    
+
+}
+
+.btn{
+    background:#CCD507;
+    color:white;
+   
+    padding:10px;
+    text-align:center;
+}
+input{
+
+        margin-bottom:20px;
+width:99%;
+padding:10px;
+border:1px solid #ccc;
+
+
+
+}
+label {
+   float:left; 
+}
+select {
+    float:left;
+    margin-bottom:30px;
+    font-size:20px;
+}
+.cambio{
+font-size:20px;
+margin-right:20px;
+}
+
+
+
+
+
